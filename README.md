@@ -12,8 +12,6 @@ CSE (AI & ML)  Student | Aspiring Software Engineer | generative AI enthusiastic
 ![](https://nirzak-streak-stats.vercel.app/?user=lakshay17108-ops&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay17108-ops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lakshay17108-ops&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
