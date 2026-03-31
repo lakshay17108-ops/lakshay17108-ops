@@ -1,9 +1,18 @@
 ## Hi there 👋
+💫 About Me:
+CSE (AI & ML) Student | Aspiring Software Engineer | generative AI enthusiastic|Exploring AI & Future Tech
 
-<!--
-**lakshay17108-ops/lakshay17108-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+CSS3 Python Vercel Netlify Render Firebase Web3.js Vite React NodeJS Flask SQLite Supabase MySQL MongoDB MicrosoftSQLServer Adobe Figma Canva Pandas NumPy Git GitHub
+
+📊 GitHub Stats:
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
